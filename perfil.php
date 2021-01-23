@@ -76,7 +76,7 @@
                                 <h5>Idioma:</h5>
                                 <p>Lorem ipsum dolor</p>
                                 <hr class="borderPerfil">
-                                <a href="BuscarAmigos.html" role="button" class="btn fondo btn-md active ImagenUser text-white">Buscar amigos</a>
+                                <a href="BuscarAmigos.php" role="button" class="btn fondo btn-md active ImagenUser text-white">Buscar amigos</a>
                                 <br>
                                 <a href="#" role="button" class="btn fondo btn-md active ImagenUser text-white">Mis Amigos</a>
                                 <br>
